@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is muhammad ebrahim and I'm a frontend developer</h2>
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
+- 📚 I’m currently learning everything about Frontend and Backend technologies 
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 <br/>
 <div align="left">
